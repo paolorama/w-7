@@ -9,10 +9,18 @@ Time spent: 5 hours spent in total
 
 1. (Required) 
   - [ ] Summary: 
+    - Vulnerability types:xss
+    - Tested in version:4.2
+    - Fixed in version: 4.7.3
+  - [ ] GIF Walkthrough: <img src='week7.1.gif' />
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+1. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: <img src='image.gif' />
+  - [ ] GIF Walkthrough: <img src='week7.1.webm' />
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -21,16 +29,7 @@ Time spent: 5 hours spent in total
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: <img src='week7.1.webm.gif' />
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: <img src='week7.2.webm.gif' />
+  - [ ] GIF Walkthrough: <img src='week7.2.webm' />
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
