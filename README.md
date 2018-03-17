@@ -11,27 +11,28 @@ Time spent: 5 hours spent in total
   - [ ] Summary: 
     - Vulnerability types:xss
     - Tested in version:4.2
-    - Fixed in version: 4.7.3
+    - Fixed in version: 4.7.5
   - [ ] GIF Walkthrough: <img src='week7.1.gif' />
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: log as admin and add a commont 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version:4.2
+    - Fixed in version:4.7.3 
   - [ ] GIF Walkthrough: <img src='week7.2.gif' />
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: Login as Admin and upload large file with error XSS
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
+1. (Required) DOS attack
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: Denial of service
+    - Tested in version: 4.2
+    - Fixed in version: ?
   - [ ] GIF Walkthrough: <img src='week7.3.gif' />
-  - [ ] Steps to recreate: From a website I download a script 
+  - [ ] Steps to recreate: login as Admin, and from website download a scrpit and use to attack the WP website 
+    
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
