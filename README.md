@@ -13,6 +13,7 @@ Time spent: 5 hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.7.3
   - [ ] GIF Walkthrough: <img src='week7.1.gif' />
+  - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
@@ -30,7 +31,7 @@ Time spent: 5 hours spent in total
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: <img src='week7.3.gif' />
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: From a website I download a script 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
@@ -69,7 +70,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018 [Ammar Smaili]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
