@@ -13,7 +13,7 @@ Time spent: 5 hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.7.5
   - [ ] GIF Walkthrough: <img src='week7.1.gif' />
-  - [ ] Steps to recreate: log as admin and add a commont 
+  - [ ] Steps to recreate: log as admin and add a commont dody onload=alert(document.cookie))
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
